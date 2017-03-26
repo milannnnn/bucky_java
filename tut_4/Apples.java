@@ -1,4 +1,4 @@
-package tut_4;
+package tut_;
 
 public class Apples {
 
