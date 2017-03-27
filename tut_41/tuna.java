@@ -1,4 +1,4 @@
-package tut_40;
+package tut_41;
 
 public class tuna {
 	private int hour;

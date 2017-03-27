@@ -1,9 +1,9 @@
 package tut_39;
 
 public class tuna {
-	private int hour;
-	private int minute;
-	private int second;
+	int hour;
+	int minute;
+	int second;
 	
 	// ### This - Recursive Constructor ### 
 	// Looks for the constructor with the same number of arguments
