@@ -6,17 +6,31 @@ Tut 05 - Print vs Println
 
 Tut 07 - Basic Input & Output
 
-Tut 46 - 
+Tut 08 - Int vs Double (Division, Modulus,...)
 
-Tut 46 - 
+Tut 09 - Incrementation (Before, After)
 
-Tut 46 - 
+Tut 14 - Basic Classes (Object / Method)
 
-Tut 46 - 
+Tut 15 - Basic Classes with some Input
 
-Tut 46 - 
+Tut 16 - Defining a Basic Object Class
+
+Tut 17 - Private (Local) vs Public Variables
+
+Tut 39 - Recursive Object Constructors 1st
+
+Tut 40 - Recursive Object Constructors 2nd
+
+Tut 41 - Recursive Object Constructors 3rd
 
 Tut 46 - Static Variables
+
+Tut 47 - 
+
+Tut 47 - 
+
+Tut 47 - 
 
 Tut 47 - 
 
