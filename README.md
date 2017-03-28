@@ -6,7 +6,7 @@ Tut 05 - Print vs Println
 
 Tut 07 - Basic Input & Output
 
-Tut 08 - Int vs Double (Division, Modulus,...)
+Tut 08 - Variable Declaration (Int Division, Modulus,...)
 
 Tut 09 - Incrementation (Before, After)
 
@@ -24,9 +24,9 @@ Tut 40 - Recursive Object Constructors 2nd
 
 Tut 41 - Recursive Object Constructors 3rd
 
-Tut 46 - Static (Shared) Variables
+Tut 46 - Static (Class Shared) Variables
 
-Tut 47 - More on Static (Shared) Variables
+Tut 47 - More on Static (Class Shared) Variables
 
 Tut 47 - 
 

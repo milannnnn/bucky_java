@@ -10,13 +10,18 @@ public class apples {
 		System.out.println();
 		System.out.println(member3.getFirst());
 		System.out.println(member2.getLast());
+		System.out.println(member1.getLast());		
+		/*
+		// We could access the STATIC Variable like this:
 		System.out.println(member1.getMembers()+"\n");
+		// But it is better to directly address that class!!!
+		*/
 		
-		// For STATIC Variables we DON'T have to ADDRESS a specific object
-		// We can JUST INVOKE that CLASS METHOD to get that VARIABLE
+		// ### For STATIC Variables we DON'T have to ADDRESS the object
+		// ### We can JUST INVOKE that CLASS METHOD to get that VARIABLE
 		System.out.println(tuna.getMembers());
-		// We have to invoke a method that returns the variable!!!
-		// (we cannot address the variable directly)
+		// ### We have to invoke a method that returns the variable!!!
+		// ### (we cannot address the variable directly)
 	}
 
 }
