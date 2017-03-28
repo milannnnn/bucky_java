@@ -24,9 +24,9 @@ Tut 40 - Recursive Object Constructors 2nd
 
 Tut 41 - Recursive Object Constructors 3rd
 
-Tut 46 - Static Variables
+Tut 46 - Static (Shared) Variables
 
-Tut 47 - 
+Tut 47 - More on Static (Shared) Variables
 
 Tut 47 - 
 
